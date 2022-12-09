@@ -9,13 +9,13 @@ body {
 }
 
 header {
-    background-color: orange;
+    background-color: #f1f1f1;
     text-align: left;
     padding: 24px 0;
 }
 
 nav {
-  background-color: orange;
+  background-color: #f1f1f1;
   padding: 20px 0;
     display: block;
 }
@@ -50,6 +50,6 @@ h1 {
     margin: 0;
     padding: 0;
     font-size: 44px;
-    color: darkslategrey;
+    color: #f1f1f1;
 }
 
